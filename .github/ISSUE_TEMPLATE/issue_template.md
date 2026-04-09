@@ -4,30 +4,26 @@ about: Reporta un error, sugerencia o incidencia en el proyecto
 labels: bug
 ---
 
-## Descripción
+### 📝 Resumen
+Describe brevemente el problema que encontraste o la mejora que propones.
 
-Describe el problema que encontraste o la mejora que propones.
-
-## Pasos para reproducir
-
+### 🔁 Pasos para reproducir
 1. 
 2. 
 3. 
 
-## Resultado esperado
-
+### ✅ Resultado esperado
 ¿Qué esperabas que sucediera?
 
-## Resultado actual
-
+### ❌ Resultado real
 ¿Qué ocurrió en realidad?
 
-## Entorno
-
+### 💻 Entorno
 - Sistema operativo:
 - Versión del proyecto / commit:
 - Navegador / herramientas:
 
-## Notas adicionales
-
-Agrega cualquier información adicional que ayude a resolver el issue.
+### 🧪 Información adicional
+- Mensajes de error o logs:
+- Capturas, enlaces o archivos relevantes:
+- Comentarios extra:
